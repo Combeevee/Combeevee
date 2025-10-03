@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#About Me:
+# About Me:
 I'm a student at UTRGV majoring in Computer Science.
 Pronouns are she/they.
 Interests include art of all forms, including shows and video games!
