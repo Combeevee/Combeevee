@@ -7,6 +7,9 @@
 # Contact Info:
 - k.alex.mtz12@gmail.com
 - https://www.linkedin.com/in/alex-martinez-292334384/
+# Programing Languages:
+- Learning C++
+- Interested in Java
 <!--
 **Combeevee/Combeevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
