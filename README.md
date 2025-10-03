@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 # About Me:
-I'm a student at UTRGV majoring in Computer Science.
-Pronouns are she/they.
-Interests include art of all forms, including shows and video games!
+- I'm a student at UTRGV majoring in Computer Science.
+- Pronouns are she/they.
+- Interests include art of all forms, including shows and video games!
+#Contact Info:
+- k.alex.mtz12@gmail.com
+- https://www.linkedin.com/in/alex-martinez-292334384/
 <!--
 **Combeevee/Combeevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
